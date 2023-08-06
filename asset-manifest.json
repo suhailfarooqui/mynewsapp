@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/suhailfarooqui/mynewsapp.git/static/css/main.073c9b0a.css",
+    "main.js": "/suhailfarooqui/mynewsapp.git/static/js/main.1cf2e62c.js",
+    "static/js/787.4c026eef.chunk.js": "/suhailfarooqui/mynewsapp.git/static/js/787.4c026eef.chunk.js",
+    "index.html": "/suhailfarooqui/mynewsapp.git/index.html",
+    "main.073c9b0a.css.map": "/suhailfarooqui/mynewsapp.git/static/css/main.073c9b0a.css.map",
+    "main.1cf2e62c.js.map": "/suhailfarooqui/mynewsapp.git/static/js/main.1cf2e62c.js.map",
+    "787.4c026eef.chunk.js.map": "/suhailfarooqui/mynewsapp.git/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1cf2e62c.js"
+  ]
+}
