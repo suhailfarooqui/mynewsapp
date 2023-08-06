@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "ABC News",
+      "title": "Police issue arrest warrant for Georgia player Jalen Carter, top NFL prospect, in deadly crash - ABC News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vYWJjbmV3cy5nby5jb20vU3BvcnRzL3BvbGljZS1pc3N1ZS1hcnJlc3Qtd2FycmFudC1nZW9yZ2lhLXBsYXllci1qYWxlbi1jYXJ0ZXIvc3Rvcnk_aWQ9OTc1NTI3OTjSAWtodHRwczovL2FiY25ld3MuZ28uY29tL2FtcC9TcG9ydHMvcG9saWNlLWlzc3VlLWFycmVzdC13YXJyYW50LWdlb3JnaWEtcGxheWVyLWphbGVuLWNhcnRlci9zdG9yeT9pZD05NzU1Mjc5OA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T16:07:30Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "CNBC",
+      "title": "Sen. Bernie Sanders calls vote on possible subpoena for Starbucks CEO Howard Schultz over allegations of union-busting - CNBC",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDMvMDEvc2VuYXRlLXZvdGUtb24tc3RhcmJ1Y2tzLWNlby1ob3dhcmQtc2NodWx0ei1zdWJwb2VuYS5odG1s0gFdaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjMvMDMvMDEvc2VuYXRlLXZvdGUtb24tc3RhcmJ1Y2tzLWNlby1ob3dhcmQtc2NodWx0ei1zdWJwb2VuYS5odG1s?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T15:51:23Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "CNN",
+      "title": "House panel votes to advance bill empowering Biden to ban TikTok - CNN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMi8yOC90ZWNoL2hvdXNlLXRpa3Rvay12b3RlL2luZGV4Lmh0bWzSAURodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDIzLzAyLzI4L3RlY2gvaG91c2UtdGlrdG9rLXZvdGUvaW5kZXguaHRtbA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T15:51:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "USA TODAY",
+      "title": "Chicago mayoral election: Lori Lightfoot loses reelection bid - USA TODAY",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDIzLzAyLzI4L2NoaWNhZ28tbWF5b3JhbC1lbGVjdGlvbi10dWVzZGF5LzExMzIyOTk2MDAyL9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T15:35:56Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "The New York Times",
+      "title": "NASA Finds China’s Mars Rover After Months of Silence - The New York Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2ludGVyYWN0aXZlLzIwMjMvMDMvMDEvc2NpZW5jZS9jaGluYS1tYXJzLXJvdmVyLW5hc2EuaHRtbNIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T15:23:45Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "The Verge",
+      "title": "Sony announces 2023 TV lineup: better late than never - The Verge",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDIzLzMvMS8yMzYxOTg5NS9zb255LTIwMjMtdHYtbGluZXVwLWJyYXZpYS14ci1mZWF0dXJlc9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T15:00:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "The Wall Street Journal",
+      "title": "More Younger People Are Getting Colorectal Cancers, and Doctors Don't Know Why - The Wall Street Journal",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3Lndzai5jb20vYXJ0aWNsZXMvbW9yZS15b3VuZy1wZW9wbGUtYXJlLWdldHRpbmctY29sb3JlY3RhbC1jYW5jZXJzLWFuZC1kb2N0b3JzLWRvbnQta25vdy13aHktZTViNTFjYTnSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T15:00:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "TMZ",
+      "title": "Travis Scott Named Suspect in NYC Club Assault, Allegedly Punched Someone - TMZ",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnRtei5jb20vMjAyMy8wMy8wMS90cmF2aXMtc2NvdHQtc3VzcGVjdC1ueWMtYXNzYXVsdC1wdW5jaGVkLXNvbWVvbmUtY2VsbHBob25lL9IBWmh0dHBzOi8vYW1wLnRtei5jb20vMjAyMy8wMy8wMS90cmF2aXMtc2NvdHQtc3VzcGVjdC1ueWMtYXNzYXVsdC1wdW5jaGVkLXNvbWVvbmUtY2VsbHBob25lLw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T14:50:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "CNN",
+      "title": "How to see Jupiter 'kiss' Venus in the night sky - CNN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMy8wMS93b3JsZC92ZW51cy1qdXBpdGVyLWNvbmp1bmN0aW9uLWhvdy10by1zZWUtc2NuL2luZGV4Lmh0bWzSAVxodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDIzLzAzLzAxL3dvcmxkL3ZlbnVzLWp1cGl0ZXItY29uanVuY3Rpb24taG93LXRvLXNlZS1zY24vaW5kZXguaHRtbA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T14:45:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "USA TODAY",
+      "title": "Ukraine might retreat from embattled Bakhmut; are US, Russia discussing nuclear treaty? Live updates - USA TODAY",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3dvcmxkLzIwMjMvMDMvMDEvdWtyYWluZS1ydXNzaWEtd2FyLWxpdmUtdXBkYXRlcy8xMTM3Mjc3MDAwMi_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T14:36:31Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Investor's Business Daily",
+      "title": "Dow Jones Futures Fall Ahead Of Manufacturing Data; Elon Musk Readies For Tesla Investor Day - Investor's Business Daily",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5pbnZlc3RvcnMuY29tL21hcmtldC10cmVuZC9zdG9jay1tYXJrZXQtdG9kYXkvZG93LWpvbmVzLWZ1dHVyZXMtcmlzZS1haGVhZC1vZi1tYW51ZmFjdHVyaW5nLWRhdGEtZWxvbi1tdXNrLXRlc2xhLWludmVzdG9yLWRheS_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T14:26:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "ESPN",
+      "title": "Out of darkness, Aaron Rodgers says decision on future coming soon - ESPN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LmVzcG4uY29tL25mbC9zdG9yeS9fL2lkLzM1NzYwNjU1L291dC1kYXJrbmVzcy1hYXJvbi1yb2RnZXJzLXNheXMtZGVjaXNpb24tZnV0dXJlLWNvbWluZy1zb29u0gF1aHR0cHM6Ly93d3cuZXNwbi5jb20vbmZsL3N0b3J5L18vaWQvMzU3NjA2NTUvb3V0LWRhcmtuZXNzLWFhcm9uLXJvZGdlcnMtc2F5cy1kZWNpc2lvbi1mdXR1cmUtY29taW5nLXNvb24_cGxhdGZvcm09YW1w?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T14:07:10Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Gizmodo",
+      "title": "Study Links Erythritol Artificial Sweetener to Heart Disease - Gizmodo",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vZ2l6bW9kby5jb20vZXJ5dGhyaXRvbC1hcnRpZmljaWFsLXN3ZWV0ZW5lci1oZWFydC1kaXNlYXNlLXN0dWR5LTE4NTAxNzAxMTHSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T13:46:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "BBC",
+      "title": "Harry and Meghan residence Frogmore Cottage offered to Andrew - reports - BBC",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiJGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay02NDgxMjU0OdIBKGh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay02NDgxMjU0OS5hbXA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T13:39:30Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "USA TODAY",
+      "title": "COVID-19 pandemic 'most likely' started in Wuhan lab, FBI Director Christopher Wray says - USA TODAY",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzLzIwMjMvMDMvMDEvY292aWQtMTktbGFiLWxlYWstY2hyaXN0b3BoZXItd3JheS8xMTM3Mjc0NjAwMi_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T13:31:04Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "The New York Times",
+      "title": "Alex Murdaugh Murder Jurors to Visit ‘Moselle’ Crime Scene - The New York Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjMvMDMvMDEvdXMvYWxleC1tdXJkYXVnaC1qdXJ5LXZpc2l0Lmh0bWzSAUdodHRwczovL3d3dy5ueXRpbWVzLmNvbS8yMDIzLzAzLzAxL3VzL2FsZXgtbXVyZGF1Z2gtanVyeS12aXNpdC5hbXAuaHRtbA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T13:30:13Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "CNN",
+      "title": "Putin ally Lukashenko meets Chinese leader Xi Jinping in Beijing - CNN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wMy8wMS9jaGluYS9iZWxhcnVzLWx1a2FzaGVua28tY2hpbmEteGktamlucGluZy1tZWV0aW5nLWJlaWppbmctaW50bC1obmsvaW5kZXguaHRtbNIBcGh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjMvMDMvMDEvY2hpbmEvYmVsYXJ1cy1sdWthc2hlbmtvLWNoaW5hLXhpLWppbnBpbmctbWVldGluZy1iZWlqaW5nLWludGwtaG5rL2luZGV4Lmh0bWw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T13:19:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "CBS Sports",
+      "title": "NFL combine 2023: Bryce Young's size, fastest player, most likely to rise and other burning questions - CBS Sports",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL25mbC9kcmFmdC9uZXdzL25mbC1jb21iaW5lLTIwMjMtYnJ5Y2UteW91bmdzLXNpemUtZmFzdGVzdC1wbGF5ZXItbW9zdC1saWtlbHktdG8tcmlzZS1hbmQtb3RoZXItYnVybmluZy1xdWVzdGlvbnMv0gGPAWh0dHBzOi8vd3d3LmNic3Nwb3J0cy5jb20vbmZsL2RyYWZ0L25ld3MvbmZsLWNvbWJpbmUtMjAyMy1icnljZS15b3VuZ3Mtc2l6ZS1mYXN0ZXN0LXBsYXllci1tb3N0LWxpa2VseS10by1yaXNlLWFuZC1vdGhlci1idXJuaW5nLXF1ZXN0aW9ucy9hbXAv?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T13:03:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Investors | Eli Lilly and Company",
+      "title": "Lilly Cuts Insulin Prices by 70% and Caps Patient Insulin Out-of-Pocket Costs at $35 Per Month | Eli Lilly and Company - Investors | Eli Lilly and Company",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vaW52ZXN0b3IubGlsbHkuY29tL25ld3MtcmVsZWFzZXMvbmV3cy1yZWxlYXNlLWRldGFpbHMvbGlsbHktY3V0cy1pbnN1bGluLXByaWNlcy03MC1hbmQtY2Fwcy1wYXRpZW50LWluc3VsaW4tb3V0LXBvY2tldNIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T13:01:45Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "CNBC",
+      "title": "Delta pilots wrap voting on new contract with big raises - CNBC",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDMvMDEvZGVsdGEtcGlsb3RzLW5ldy1jb250cmFjdC1iaWctcmFpc2VzLmh0bWzSAU1odHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyMy8wMy8wMS9kZWx0YS1waWxvdHMtbmV3LWNvbnRyYWN0LWJpZy1yYWlzZXMuaHRtbA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T12:42:40Z",
+      "content": null
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+<News pageSize={8} country='us' category='business'/>
+<News pageSize={8} country='us' category='entertainment'/>
+<News pageSize={8} country='us' category='general'/>
+<News pageSize={8} country='us' category='health'/>
+<News pageSize={8} country='us' category='science'/>
+<News pageSize={8} country='us' category='sports'/>
+<News pageSize={8} country='us' category='technology'/>
+
+
+
+
+
+<News pageSize={8} country='us' category='entertainment'/>
